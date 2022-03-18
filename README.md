@@ -1,6 +1,6 @@
 # Geometry Calculator Volume
 
-Aplikasi flutter pertamaku.
+Aplikasi flutter pertamaku
 
 ## Cara Penggunaan
 
